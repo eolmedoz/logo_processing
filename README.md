@@ -1,1 +1,1 @@
-# logo_processing
+# LogoProcessing
